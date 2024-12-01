@@ -1,14 +1,4 @@
-            - name: TIL Auto-Format README
+- name: TIL Auto-Format README
   # You may pin to the exact commit or the version.
   # uses: cflynn07/github-action-til-autoformat-readme@a77245908da48e735f16eef16b9be7504fe1cbab
   uses: cflynn07/github-action-til-autoformat-readme@1.2.4
-  with:
-    # Description text block featured at the top of your README.md
-    description: # optional, default is 
-    # Footer text block, can be used for things like markdown links
-    footer: # optional, default is 
-    # List most recent n TILs in section below description
-    list_most_recent: # optional, default is 0
-    # Date format visible on list of most recent TILs. Must follow Go time format guidelines
-    date_format: # optional, default is 02 Jan 06 15:04 MST
-          
