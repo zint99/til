@@ -12,14 +12,14 @@ _1 TILs and counting..._
 
 ### 1 most recent TILs
 
-- [](markdown/How to add a collapsible section in markdown.md) - 1010 Jan 00:00
+- [](markdown/How-to-add-a-collapsible-section-in-markdown.md) - 1010 Jan 00:00
 
 ### Categories
 
 - [markdown](#markdown)
 
 ### [markdown](#markdown)
-- [](markdown/How to add a collapsible section in markdown.md)
+- [](markdown/How-to-add-a-collapsible-section-in-markdown.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
