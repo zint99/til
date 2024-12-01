@@ -1,5 +1,4 @@
-
-# How to add a collapsible section in markdown
+# How to add collapsible section
 ## 1. Example
 <details>
   <summary>Click me</summary>
