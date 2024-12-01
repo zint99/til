@@ -1,9 +1,9 @@
 # TIL
 > Today I Learned
 
-A collection of concrete writeups of small things I learn daily while working
-and researching. I was inspired to start this repository after reading Simon Wilson's 
-[hacker new post][1], and he was apparently inspired by Josh Branchaud's [TIL collection][2].
+We constantly learn new things. This is a repo to share those learnings. TILs are short Markdown documents (a few sentences + example code) explaining concepts, bits of syntax, commands, or tips we've recently learned.
+- For more posts, check [Blog][1] and [xLog][2]
+- using [cflynn07/github-action-til-autoformat-readme][3] to automatically generate a README.md from a repo of TILs
 
 
 _1 TILs and counting..._
@@ -12,7 +12,7 @@ _1 TILs and counting..._
 
 ### 1 most recent TILs
 
-- [How to add collapsible section](markdown/How-to-add-a-collapsible-section-in-markdown.md) - 1010 Jan 00:00
+- [How to add collapsible section](markdown/How-to-add-a-collapsible-section-in-markdown.md) - 01 Jan 01 00:00 UTC
 
 ### Categories
 
@@ -21,6 +21,7 @@ _1 TILs and counting..._
 ### [markdown](#markdown)
 - [How to add collapsible section](markdown/How-to-add-a-collapsible-section-in-markdown.md)
 
-[1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-[2]: https://github.com/jbranchaud/til
+[1]: https://joytown99.top
+[2]: https://joytown99.xlog.app
+[3]: https://github.com/cflynn07/til-autoformat-action-example
 
