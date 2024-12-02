@@ -26,4 +26,4 @@ jobs:
           [2]: https://joytown99.xlog.app
           [3]: https://github.com/cflynn07/til-autoformat-action-example
         list_most_recent: 3 # optional, lists most recent TILS below description
-        #date_format: "2020 Jan 15:04" # optional, must align to https://golang.org/pkg/time/#Time.Format
+        date_format: "2020 Jan 15:04" # optional, must align to https://golang.org/pkg/time/#Time.Format
