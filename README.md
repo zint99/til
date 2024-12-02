@@ -6,17 +6,22 @@ We constantly learn new things. This is a repo to share those learnings. TILs ar
 - using [cflynn07/github-action-til-autoformat-readme][3] to automatically generate a README.md from a repo of TILs
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
-### 1 most recent TILs
+### 2 most recent TILs
 
+- [How to manage git submodule](git/how-to-manage-git-submodule.md) - 01 Jan 01 00:00 UTC
 - [How to add collapsible section](markdown/How-to-add-a-collapsible-section-in-markdown.md) - 01 Jan 01 00:00 UTC
 
 ### Categories
 
+- [git](#git)
 - [markdown](#markdown)
+
+### [git](#git)
+- [How to manage git submodule](git/how-to-manage-git-submodule.md)
 
 ### [markdown](#markdown)
 - [How to add collapsible section](markdown/How-to-add-a-collapsible-section-in-markdown.md)
