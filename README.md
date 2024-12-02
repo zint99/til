@@ -12,8 +12,8 @@ _2 TILs and counting..._
 
 ### 2 most recent TILs
 
-- [How to manage git submodule](git/how-to-manage-git-submodule.md) - 01 Jan 01 00:00 UTC
-- [How to add collapsible section](markdown/How-to-add-a-collapsible-section-in-markdown.md) - 01 Jan 01 00:00 UTC
+- [How to manage git submodule](git/how-to-manage-git-submodule.md) - 1010 Jan 00:00
+- [How to add collapsible section](markdown/How-to-add-a-collapsible-section-in-markdown.md) - 1010 Jan 00:00
 
 ### Categories
 
